@@ -1,0 +1,25 @@
+[
+    {
+        "nome": "Recuperar o item perdido",
+        "tipo": "normal",
+        "concluida": false
+    },
+    {
+        "nome": "Derrotar o drag\u00e3o",
+        "tipo": "combate",
+        "concluida": false,
+        "inimigo": "Drag\u00e3o Vermelho"
+    },
+    {
+        "nome": "Explorar a caverna misteriosa",
+        "tipo": "exploracao",
+        "concluida": false,
+        "local": "Caverna do Eco"
+    },
+    {
+        "nome": "Ca\u00e7ar Javalis",
+        "tipo": "combate",
+        "concluida": false,
+        "inimigo": "Javali"
+    }
+]
