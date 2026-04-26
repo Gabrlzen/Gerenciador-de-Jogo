@@ -1,2 +1,3 @@
-# Gerenciador de Jogo
-Primeiro projeto
+# Gerenciador de Missões
+
+Este é o meu primeiro projeto além daqueles básicos de criar tabuada, jogos de par ou impar, etc...
